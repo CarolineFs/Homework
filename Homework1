@@ -1,1 +1,114 @@
+<!DOCTYPE html>
+<html>
 
+     <head>
+
+         <title> Личная страница Насти Овчинниковой</title>
+
+     </head>
+
+         <body bgcolor="lemonchiffon">
+
+             <table>
+	             <tr>
+				     <td colspan="2"bgcolor="khaki"width="1900"height="679" background="http://media.jrn.com/images/b99363040z.1_20141002113816_000_gl28435u.1-0.jpg">
+				     <center><h1><font color="goldenrod">Личная страница Насти Овчинниковой</font></h1></center>
+                     <hr align="center" width="350px" size="10" color="gold"> </td> </tr>
+
+                 <tr>
+				     <td bgcolor="lightsteelblue" width="900"><center><font size=7><br>
+				     <b>контакты</b><br/></font>
+	                 телефон: 8-916-800-41-02<br/>
+			         e-mail: <a href="https://mail.ru/">dr_gromova1998@mail.ru</a><br/>
+			         вконтакте: <a href="https://vk.com/stjimmy123">https://vk.com/stjimmy123 </a></center></td>
+	                 <td bgcolor="darkseagreen" width="1000"><center><font size=7><br>
+					 <b>место учебы</b><br/></font>
+	                 <a href="https://www.hse.ru/"><abbr title="Национальный исследовательский университет Высшая Школа Экономики">НИУ ВШЭ</abbr></a><br/>
+	                 Фкультет гуманитарных наук <br/>
+	                 <a href="https://www.hse.ru/ba/ling/">Фундаментальная и компьтерная лингвистика</a></center></td>
+	             </tr>
+	  
+	             <tr>
+				     <td colspan="2" bgcolor="khaki"width="1900"height="200" background="https://pp.vk.me/c637823/v637823342/123fc/gxFLSyrH7b4.jpg">
+					 <center><h1><font color="gold">Обо мне</h1></center></td>
+			     </tr>
+                 <tr>
+				     <td> <center><font size="5"><i> Я училась в <br/><abbr title="Автономная некоммерческая образовательная организация">АНО</abbr> "Гуманитарный лицей" <br/>
+                       города Орехово-Зуево <br/> Московской области</i></font></center></td> 
+					 <td> <img src="https://pp.vk.me/c626420/v626420330/d73b/WnMgPBwH3KA.jpg" height="610" width="600"> </td>
+			     </tr>
+		         <tr>
+				     <td> <center><font size="5"><i> Я окончила <br/><abbr title="Детская школа искусств">ДШИ</abbr> имени Я. Флиера <br/>
+                       по классу фортепиано <br/> и хореографии</i></font></center></td> 
+					 <td> <img src="https://pp.vk.me/c637823/v637823342/12559/Bt22r9dZk38.jpg" height="548" width="714"> </td>
+			    </tr>
+  			     <tr>
+				     <td> <center><font size="5"> Играю на гитаре</font></center></td> 
+					 <td> <img src="https://pp.vk.me/c613421/v613421112/fb26/GU4zaTbbywI.jpg" height="550" width="794"> </td>
+			     </tr>
+				 <tr>
+				     <td> <center><font size="5"> Обожествляю <a href="http://www.greenday.com/?frontpage=true">Green Day</a>. <br/> 
+					 Вам стоит посмотреть <a href="https://vk.com/videos160667342?q=bullet&z=video160667342_170764424">это</a>,
+					 <br/> если вы любите панк-рок </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c418621/v418621269/4179/lSaPTjgiyOg.jpg" height="500" width="473"> </td>
+				 </tr>
+				 <tr>
+				     <td> <center><font size="5"> А еще я люблю <a href="https://rammstein.de/de"> Rammstein </a> </font></center></td> 
+					 <td> <img src="http://boombob.ru/resize.php?id=49149&num=11&width=515&height=386.25" height="386" width="515"> </td>
+			     </tr>
+				 <tr><td> <center><font size="5"> С детства обожаю лошадей (и мечтаю о своем коне) </font></center></td> 
+					   <td> <img src="https://pp.vk.me/c628529/v628529747/38b9f/q3op0s6IMks.jpg" height="386" width="604"> </td> 
+				 </tr>   
+			     <tr>
+				     <td> <center><font size="5"> В седле с 11 лет. Занимаюсь <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80">конкуром</a> </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c614821/v614821255/ce1f/6wcMYmambQY.jpg" height="386" width="604"> </td> 
+				 </tr>
+			     <tr>
+				     <td> <center><font size="5"> А это моя любимая кобыла Плутовка </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c637823/v637823342/126e7/_qbDxf7et7I.jpg" height="426" width="560"> </td>
+				 </tr>   
+			     <tr>
+				     <td> <center><font size="5"> Снова мои кумиры-Эдвард Гал и вороной Тотилас </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c637823/v637823342/1270f/fUQ4a8KuRdc.jpg" height="500" width="448"> </td> 
+				 </tr>	   
+				 <tr>
+				     <td> <center><font size="5"> Каждый год участвую в конных походах </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c637627/v637627975/ba55/nm78fyRK1G8.jpg" height="426" width="610"> </td>
+				 </tr>	   
+				 <tr>
+				     <td> <center><font size="5"> Как и многие люди, обожаю путешествовать </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c628029/v628029342/37b41/HK1z7-WJJ24.jpg" height="426" width="610"> </td>
+				 </tr>	   
+				 <tr>
+				     <td> <center><font size="5"> Трачу свою жизнь на просмотр хороших и не очень сериалов </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c637823/v637823342/126ae/yXXWM5hbXf4.jpg" height="610" width="436"> </td> 
+				 </tr>	   
+				 <tr> 
+				     <td><center><font size="5"> и фильмов </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c623131/v623131654/1042a/yd51ytpKQOE.jpg" height="450" width="473"> </td> 
+				 </tr>	   
+			     <tr>
+				     <td> <center><font size="5"> Иногда я даже пытаюсь рисовать </font></center></td> 
+				     <td> <img src="https://pp.vk.me/c637823/v637823342/12708/8aeaN0a2Ug4.jpg" height="450" width="600"> </td>
+				 </tr>	   
+			     <tr>
+				     <td><center><font size="5"> Большой фанат Elite: Dangerous.<br/> Просто шикарный космосимулятор. <br/> ОТЛИЧНО УБЬЕТ ВСЕ ВАШЕ СВОБОДНОЕ ВРЕМЯ <br/>
+                     Скачать можно <a href="https://www.elitedangerous.com/">здесь<a/>. <br/> Но если вы вдруг заметите, <br/>что эта игра забирает из вашей жизни <br/> 
+					 по 26 часов ежедневно,<br/> я не виновата</font></center></td> 
+					 <td> <img src="https://pp.vk.me/c636717/v636717520/2942b/7NtFhT7i8vw.jpg" height="470" width="820"> </td>
+				 </tr>	   
+				 <tr>
+				     <td> <center><font size="5"> Не могу не скинуть еще один скрин. Слишком <br/> красиво </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c637823/v637823342/126c2/KVmg3OSuQvA.jpg" height="470" width="820"> </td>
+	             </tr>
+				 <tr>
+				     <td> <center><font size="5">Хочу быть космонавтом. <br/>
+                     Но буду лингвистом</font></center></td> 
+					 <td> <img src="http://www.aviokases.lv/f/news/m/319579_1.jpeg" height="253" width="450"> </td>
+	             </tr>
+	             <tr>
+				     <td> <center><font size="5">  Вы наконец-то дочитали до конца. Спасибо за внимание! </font></center></td> 
+					 <td> <img src="https://pp.vk.me/c637823/v637823342/126dd/3zqXNrwGgOc.jpg" height="452" width="598"> </td>
+                 </tr>
+   </body> 
+   </html>
