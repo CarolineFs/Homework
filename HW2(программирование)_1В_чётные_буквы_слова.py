@@ -1,12 +1,14 @@
 w = input('Введите слово (в кириллице): ')
-wl=w.lower()
+w=w.lower()
 a='а'
 k='к'
-if a in wl:
-    wl=wl.replace('а',' ')
-if  k in wl:
-    wl=wl.replace('к', ' ')
-r=wl[1: : 2]
-r=r.replace(' ','')
-print ('Чётные буквы введенного слова, кроме "а" и "к":',r)
+if a in w:
+    w=w.replace('а',' ')
+if  k in w:
+    w=w.replace('к', ' ')
+w=w[1: : 2]
+w=w.replace(' ','')
+print ('Чётные буквы введенного слова, кроме "а" и "к":',w)
+
+
 
