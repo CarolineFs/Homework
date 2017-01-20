@@ -24,3 +24,4 @@ while i <= l:
         print ('Нет!')
 if response != values[n]:
     print('Вы проиграли!')
+f.close()
