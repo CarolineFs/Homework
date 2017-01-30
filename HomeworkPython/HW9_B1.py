@@ -1,3 +1,4 @@
+#программа открывает файл и выводит все встретившиеся формы глагола "открыть"
 import re
 with open ('anna.txt', 'r', encoding = 'utf-8') as f:
     text = f.read().replace('\n', '').lower()
@@ -30,8 +31,10 @@ with open ('anna.txt', 'r', encoding = 'utf-8') as f:
         if sm != None:
             if word not in arr:
                 arr.append(word)
-                              
-print(arr)
+
+for i in range (0, len(arr)):
+    print (arr[i])
+#print(arr)
 
 
 
