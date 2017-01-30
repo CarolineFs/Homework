@@ -5,10 +5,10 @@ with open ('anna.txt', 'r', encoding = 'utf-8') as f:
     arr =[]
     past = 'открыл(а|и)'
     fut = 'откро(ют?|е(т|шь)|е(шься|тся)|ются|й(те)?)'
-    inf = 'откры(в|ть(ся)?)'
     part = 'открыт(ы(ый|тому|тым)|о(м|го)|ая|ой|ую|а|ы|ые|ых|ыми?|ое)'
     smth = 'будучи открыт(ыми?|ой)'
-    part3 = 'открывш(ий|его|ему|ем|ее|ая|ей|ею|ие|их|им)'
+    inf = 'откры(в(ш(ий|его|ему|ем|ее|ая|ей|ею|ие|их|им))?|ть(ся)?)'
+
     for word in words:
         p = re.search(past, word)
         if p != None:
@@ -30,11 +30,8 @@ with open ('anna.txt', 'r', encoding = 'utf-8') as f:
         if sm != None:
             if word not in arr:
                 arr.append(word)
-        p3_m = re.search(part3, word)
-        if p3_m != None:
-            if word not in arr:
-                arr.append(word)
-                      
+                              
 print(arr)
+
 
 
