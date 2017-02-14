@@ -8,7 +8,7 @@ for lines in text:
         break
     k += 1;
 
-card = re.compile (r'<w lemma="(?:.)+?" type="(.*)?"', flags = re.I|re.DOTALL)
+card = re.compile (r'?type="(.*)?"', flags = re.I|re.DOTALL)
 arr_type = []
 for lines in text :
     s = str(lines)
