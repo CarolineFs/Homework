@@ -4,7 +4,7 @@ names = os.listdir()
 k = 0
 flag = 0       
 for i in range (len(names)):
-    for j in range (len(names)-i):
+    for j in range (i):
         if names[i] == names [j]:
             flag +=1
             break
