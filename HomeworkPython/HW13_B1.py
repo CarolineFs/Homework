@@ -1,6 +1,11 @@
 import os
 import re
 names = os.listdir()
+for i in range (len(names)):
+    if os.path.isfile(names[i]) is True:
+        index = names[i].rindex('.')
+        names[i] = names[i][0:index]
+        
 k = 0
 flag = 0       
 for i in range (len(names)):
