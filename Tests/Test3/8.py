@@ -15,6 +15,8 @@ def countwords():
                         file.writelines (name+'\t'+str(words)+'\n')
             file.close()
 def meta():
+    with open ('meta.csv', 'a', encoding = 'UTF - 8') as mf:
+                        mf.writelines('Имя файла'+':'+'Имя автора'+':'+'Дата создания'+'\n')
     for roots, dirs, files in os.walk('.'):
         for f in files:
             file = open ('c_words.txt' ,'a', encoding = 'UTF - 8')
