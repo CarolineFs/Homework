@@ -1,6 +1,6 @@
 import re
 import os
-#import csv
+import csv
 def countwords():
     for roots, dirs, files in os.walk('.'):
         for f in files:
@@ -23,13 +23,14 @@ def meta():
                 if not f.endswith ('.py'):
                     with open (f, 'r') as f:
                         text = f.read()
+                        
                     aut = re.search(r'meta content="(\w+.\w+)" name="author"', text)
                     author = aut.group(1)
                     dat = re.search(r'meta content="(.*)" name="created"', text)
                     data = dat.group(1)
                     print (author, data)
-                    #with open ('meta.csv', 'a', encoding = 'UFT - 8') as mf:
-                        #mf.writelines(name+':'+authot+':'+data+'\n')
+                    with open ('meta.csv', 'a', encoding = 'UTF - 8') as mf:
+                        mf.writelines(name+':'+author+':'+data+'\n')
                         
         
 def main():
